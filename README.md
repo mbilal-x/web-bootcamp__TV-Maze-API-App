@@ -1,7 +1,5 @@
 # TV Show Search Application - Web Bootcamp Project
 
-![Project Preview](link-to-project-preview-image)
-
 This repository contains a TV Show Search Application that I built as part of Udemy's Web Development Bootcamp by Colt Steele. The application allows users to search for TV shows and provides information about the shows using data fetched from an open-source API.
 
 ## Preview
